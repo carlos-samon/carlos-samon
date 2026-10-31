@@ -62,14 +62,10 @@ how things work — from low-level systems to the software we use every day.
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript">
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP">
-  ```html
-<p>
-  <img
-    src="[https://img.shields.io/badge/Assembly-ASM-8B5CF6?style=for-the-badge](https://img.shields.io/badge/Assembly-ASM-8B5CF6?style=for-the-badge)"
-    height="28"
-    alt="Assembly">
 </p>
-```
+
+<p>
+  <img src="https://img.shields.io/badge/Assembly-ASM-8B5CF6?style=for-the-badge" height="28" alt="Assembly">
 </p>
 
 ### 🌐 Web & databases
