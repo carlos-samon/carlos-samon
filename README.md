@@ -15,6 +15,10 @@ Fourth-year student exploring AI, Linux, decentralised technology and cybersecur
 <a href="https://leetcode.com/csamon/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile">
 </a>
+&nbsp;
+<a href="[https://www.linkedin.com/in/TU-IDENTIFICADOR/](https://www.linkedin.com/in/carlos-sam%C3%B3n-244960269/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+</a>
 
 <br>
 <br>
