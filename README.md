@@ -1,21 +1,203 @@
-<h1 align="center">Hi 👋, I'm Carlos Samón</h1>
-<h3 align="center">4th year Computer Enginner passionate about AI,Linux universe, decentralised technology and cybersecurity</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-samon&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-samon" /> </p>
+# 👋 Hey, I'm Carlos Samón
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-samon" alt="carlos-samon" /></a> </p>
+### Computer Engineering student · Curious by nature · Builder by practice
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos samón" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos samón" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/csamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="csamon" height="30" width="40" /></a>
+Fourth-year student exploring AI, Linux, decentralised technology and cybersecurity.
+
+<br>
+
+<a href="https://github.com/carlos-samon?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_my_projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
+</a>
+&nbsp;
+<a href="https://leetcode.com/csamon/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile">
+</a>
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/AI-Exploring-A78BFA?style=flat-square" alt="Exploring AI">
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-Enthusiast-38BDF8?style=flat-square&logo=linux&logoColor=white" alt="Linux enthusiast">
+&nbsp;
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-F472B6?style=flat-square" alt="Learning cybersecurity">
+
+</div>
+
+---
+
+## 🧑‍💻 A little about me
+
+I'm Carlos, a fourth-year Computer Engineering student who enjoys understanding
+how things work — from low-level systems to the software we use every day.
+
+- 🐧 Interested in Linux, operating systems and the world behind the terminal.
+- 🧠 Exploring artificial intelligence and its practical applications.
+- 🔐 Curious about cybersecurity and decentralised technology.
+- 🛠️ I enjoy building things, experimenting and learning by debugging.
+- 🌱 Always looking for the next problem worth solving.
+
+> Understand it. Build it. Break it. Improve it.
+
+---
+
+## 🛠️ My toolbox
+
+### 💻 Programming languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 Web & databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-samon&show_icons=true&locale=en&layout=compact" alt="carlos-samon" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-samon&show_icons=true&locale=en" alt="carlos-samon" /></p>
+Also worked with: CodeIgniter · Oracle SQL
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-samon&" alt="carlos-samon" /></p>
+### ⚙️ Systems & development tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Android Studio">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab" height="48" alt="MATLAB">
+</p>
+
+<details>
+<summary>🎨 Design & creative tools — click to expand</summary>
+
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ai" height="48" alt="Adobe Illustrator">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ps" height="48" alt="Adobe Photoshop">
+</p>
+
+</details>
+
+---
+
+## 🔎 What catches my interest
+
+| Area | What draws me in |
+| :--- | :--- |
+| 🐧 Linux & systems | Understanding what happens beneath the application |
+| 🧠 Artificial intelligence | Turning interesting ideas into useful software |
+| 🔐 Cybersecurity | Understanding how systems fail and how to protect them |
+| 🌐 Decentralised technology | Exploring alternatives to centralised infrastructure |
+| ⚡ Low-level development | Working closer to the hardware |
+
+---
+
+## 🐍 Contributions, with a twist
+
+<div align="center">
+
+<p>A little snake making its way through my contributions.</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/carlos-samon/carlos-samon/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/carlos-samon/carlos-samon/output/github-snake.svg">
+  <img
+    alt="Animated snake moving through my GitHub contribution grid"
+    src="https://raw.githubusercontent.com/carlos-samon/carlos-samon/output/github-snake.svg"
+    width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🧩 Beyond the icons
+
+<details>
+<summary>💡 What I enjoy about engineering</summary>
+
+<br>
+
+Taking something that looks complicated, breaking it into smaller pieces,
+and understanding how those pieces fit together.
+
+Especially when the solution finally works after a long debugging session.
+
+</details>
+
+<br>
+
+<details>
+<summary>📚 How I like to learn</summary>
+
+<br>
+
+Build a small version. Test it. Read the documentation.
+Break something. Figure out why. Repeat.
+
+</details>
+
+<br>
+
+<details>
+<summary>🚀 Explore what I'm building</summary>
+
+<br>
+
+My repositories include experiments, coursework and personal projects.
+
+[Take a look at my repositories →](https://github.com/carlos-samon?tab=repositories)
+
+</details>
+
+---
+
+<div align="center">
+
+### Let's build something worth understanding.
+
+<a href="https://github.com/carlos-samon?tab=repositories">Projects</a>
+&nbsp; · &nbsp;
+<a href="https://leetcode.com/csamon/">LeetCode</a>
+
+<br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=carlos-samon&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views">
+
+</div>
